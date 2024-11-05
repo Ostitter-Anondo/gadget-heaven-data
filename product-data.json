@@ -242,7 +242,7 @@
     {
       "product_id": 15,
       "product_title": "Lenovo ThinkPad X1 Carbon",
-      "product_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_1239.jpeg",
+      "product_image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/the-lenovo-x1-carbon-gen-11-with-the-screen-on-1jpg_52938421464_o.jpg",
       "category": "Laptop",
       "price": 1599,
       "description": "Lightweight business laptop with excellent build quality.",
@@ -344,7 +344,7 @@
     {
       "product_id": 21,
       "product_title": "Apple Watch Series 7",
-      "product_image": "url_to_image",
+      "product_image": "https://image.cnbcfm.com/api/v1/image/107312694-1696600285988-Apple-Watch-S9-carbon-neutral-lineup-230912.jpg?v=1696620020&w=1600&h=900",
       "category": "Smartwatch",
       "price": 399,
       "description": "The latest Apple Watch with a larger display and faster charging.",
@@ -361,7 +361,7 @@
     {
       "product_id": 22,
       "product_title": "Samsung Galaxy Watch 4",
-      "product_image": "url_to_image",
+      "product_image": "https://images.techadvisor.com/cmsdata/features/3797411/galaxy_watch_4_review_6.jpg",
       "category": "Smartwatch",
       "price": 249,
       "description": "Smartwatch with health monitoring and advanced fitness tracking.",
@@ -378,7 +378,7 @@
     {
       "product_id": 23,
       "product_title": "Garmin Fenix 6",
-      "product_image": "url_to_image",
+      "product_image": "https://www.wareable.com/wp-content/uploads/sites/6/2024/08/Garmin_Fenix_E_images.jpg",
       "category": "Smartwatch",
       "price": 549,
       "description": "Premium multisport GPS smartwatch with advanced training features.",
@@ -395,7 +395,7 @@
     {
       "product_id": 24,
       "product_title": "Fitbit Sense",
-      "product_image": "url_to_image",
+      "product_image": "https://images.hindustantimes.com/img/2021/10/04/1600x900/1ab7da6a-24f4-11ec-9d0a-2107028cb826_1633339445573.png",
       "category": "Smartwatch",
       "price": 299,
       "description": "Advanced health smartwatch with tools for stress management, heart health, and more.",
@@ -412,7 +412,7 @@
     {
       "product_id": 25,
       "product_title": "TicWatch Pro 3",
-      "product_image": "url_to_image",
+      "product_image": "https://knowtechie.com/wp-content/uploads/2022/04/ticwatch-pro-3-ultra.jpg",
       "category": "Smartwatch",
       "price": 299,
       "description": "Smartwatch with dual-layer display and extended battery life.",
@@ -429,7 +429,7 @@
     {
       "product_id": 26,
       "product_title": "Huawei Watch GT 2 Pro",
-      "product_image": "url_to_image",
+      "product_image": "https://memeburn.com/gearburn/wp-content/uploads/sites/3/2020/11/GT2-Pro-4.jpg",
       "category": "Smartwatch",
       "price": 299,
       "description": "Smartwatch with premium design and advanced features.",
@@ -446,7 +446,7 @@
     {
       "product_id": 27,
       "product_title": "Amazfit GTR 3",
-      "product_image": "url_to_image",
+      "product_image": "https://1219204759.rsc.cdn77.org/wp-content/uploads/2021/10/xiaomi-amzfit-gtr-3-gtr-3-pro.jpg",
       "category": "Smartwatch",
       "price": 179,
       "description": "Smartwatch with long battery life and comprehensive health tracking.",
@@ -463,7 +463,7 @@
     {
       "product_id": 28,
       "product_title": "Fossil Gen 6",
-      "product_image": "url_to_image",
+      "product_image": "https://www.pc-tablet.co.in/wp-content/uploads/2024/04/Anticipated-Wear-OS-4-Update-Arrives-on-Fossil-Gen-6-Smartwatch-with-Fresh-Features.webp",
       "category": "Smartwatch",
       "price": 299,
       "description": "Stylish smartwatch with advanced health tracking and Wear OS.",
@@ -480,7 +480,7 @@
     {
       "product_id": 29,
       "product_title": "Garmin Venu 2",
-      "product_image": "url_to_image",
+      "product_image": "https://hnau.imgix.net/media/catalog/product/0/1/010-02430-11-garmin-venu-2-gps-smart-watch-slate-black-3_2.jpg",
       "category": "Smartwatch",
       "price": 399,
       "description": "GPS smartwatch with stunning AMOLED display and advanced health monitoring.",
@@ -497,7 +497,7 @@
     {
       "product_id": 30,
       "product_title": "Suunto 7",
-      "product_image": "url_to_image",
+      "product_image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202108/Suunto_7_main.jpg?r8spxtoLBjnWOrOJ7y9jaTo_rvataI56&",
       "category": "Smartwatch",
       "price": 399,
       "description": "Smartwatch combining sports expertise with smartwatch features.",
