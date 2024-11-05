@@ -4,7 +4,7 @@
     {
       "product_id": 1,
       "product_title": "iPhone 14 Pro",
-      "product_image": "url_to_image",
+      "product_image": "https://m.economictimes.com/thumb/msid-93747525,width-1600,height-900,resizemode-4,imgsize-45376/iphone-14-max-iphone-14-pro-max-see-which-apple-phones-demand-scaling-new-heights.jpg",
       "category": "Phone",
       "price": 999,
       "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
@@ -21,7 +21,7 @@
     {
       "product_id": 2,
       "product_title": "Samsung Galaxy S23",
-      "product_image": "url_to_image",
+      "product_image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/Samsung-Galaxy-S23-family.jpg?quality=82&strip=all&w=1600",
       "category": "Phone",
       "price": 899,
       "description": "Flagship smartphone with Exynos 2200 and superior display.",
@@ -38,7 +38,7 @@
     {
       "product_id": 3,
       "product_title": "Google Pixel 7",
-      "product_image": "url_to_image",
+      "product_image": "https://m.economictimes.com/thumb/msid-94563553,width-1600,height-900,resizemode-4,imgsize-29280/google-pixel-7-pro.jpg",
       "category": "Phone",
       "price": 799,
       "description": "Google's latest smartphone with pure Android experience.",
@@ -55,7 +55,7 @@
     {
       "product_id": 4,
       "product_title": "OnePlus 10 Pro",
-      "product_image": "url_to_image",
+      "product_image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202201/OnePlus_10_Pro_launched.jpg",
       "category": "Phone",
       "price": 969,
       "description": "High-performance phone with Snapdragon 8 Gen 1.",
@@ -72,7 +72,7 @@
     {
       "product_id": 5,
       "product_title": "Sony Xperia 5 III",
-      "product_image": "url_to_image",
+      "product_image": "https://www.purepc.pl/image/artykul/2021/10/01_test_sony_xperia_5_iii_z_czego_rezygnujemy_wybierajac_skromniejszy_odpowiednik_smartfona_xperia_1_iii_2_b.jpg",
       "category": "Phone",
       "price": 849,
       "description": "Compact flagship with impressive camera technology.",
@@ -89,7 +89,7 @@
     {
       "product_id": 6,
       "product_title": "Xiaomi Mi 12",
-      "product_image": "url_to_image",
+      "product_image": "https://images.moneycontrol.com/static-mcnews/2022/04/Xiaomi-12-pro-2.jpg?impolicy=website&width=1600&height=900",
       "category": "Phone",
       "price": 799,
       "description": "Affordable flagship with Snapdragon 888 and great cameras.",
@@ -106,7 +106,7 @@
     {
       "product_id": 7,
       "product_title": "ASUS ROG Phone 6",
-      "product_image": "url_to_image",
+      "product_image": "https://images.livemint.com/img/2022/07/05/1600x900/Asus_ROG_Phone_6_1657042037488_1657042047583.jpg",
       "category": "Phone",
       "price": 999,
       "description": "Gaming phone with high refresh rate display and great performance.",
@@ -123,7 +123,7 @@
     {
       "product_id": 8,
       "product_title": "Huawei P50 Pro",
-      "product_image": "url_to_image",
+      "product_image": "https://d.newsweek.com/en/full/2023815/huawei-p50-pro-camera.webp?w=1600&h=900&q=88&f=0f16bd34dc3dc556d8b2089e86dd7fc2",
       "category": "Phone",
       "price": 899,
       "description": "Premium phone with powerful camera capabilities.",
