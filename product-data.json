@@ -140,7 +140,7 @@
     {
       "product_id": 9,
       "product_title": "Oppo Find X5 Pro",
-      "product_image": "url_to_image",
+      "product_image": "https://m.economictimes.com/thumb/msid-89816854,width-1600,height-900,resizemode-4,imgsize-41836/image-2022-02-25t094157-164.jpg",
       "category": "Phone",
       "price": 849,
       "description": "Flagship phone with unique design and powerful specs.",
@@ -157,7 +157,7 @@
     {
       "product_id": 10,
       "product_title": "Moto G100",
-      "product_image": "url_to_image",
+      "product_image": "https://fony.sk/sites/fony.sk/files/2021-03/motorola_moto_g100_01.jpg",
       "category": "Phone",
       "price": 599,
       "description": "Mid-range phone with high performance and large battery.",
@@ -174,7 +174,7 @@
     {
       "product_id": 11,
       "product_title": "MacBook Pro 14-inch",
-      "product_image": "url_to_image",
+      "product_image": "https://mobilo4ka.ru/image/catalog/Apple/Macbook%2014%20M2%20Pro/pro%20m2.jpeg",
       "category": "Laptop",
       "price": 1999,
       "description": "Powerful laptop with M1 Pro chip and excellent display.",
@@ -191,7 +191,7 @@
     {
       "product_id": 12,
       "product_title": "Dell XPS 13",
-      "product_image": "url_to_image",
+      "product_image": "https://images.indianexpress.com/2024/08/dell-xps-13-copilot-plus-pc-review4.jpg",
       "category": "Laptop",
       "price": 1299,
       "description": "Premium ultrabook with stunning display and performance.",
@@ -208,7 +208,7 @@
     {
       "product_id": 13,
       "product_title": "HP Spectre x360",
-      "product_image": "url_to_image",
+      "product_image": "https://images.moneycontrol.com/static-mcnews/2021/08/HP-Spectre-x360-1.jpg?impolicy=website&width=1600&height=900",
       "category": "Laptop",
       "price": 1499,
       "description": "Convertible laptop with sleek design and great performance.",
@@ -225,7 +225,7 @@
     {
       "product_id": 14,
       "product_title": "Microsoft Surface Laptop 4",
-      "product_image": "url_to_image",
+      "product_image": "https://media.wired.com/photos/664b93e4c294e4edd29422ed/master/w_1600%2Cc_limit/Surface-Laptop-1900x1069.png",
       "category": "Laptop",
       "price": 1399,
       "description": "Elegant laptop with high-resolution touchscreen.",
@@ -242,7 +242,7 @@
     {
       "product_id": 15,
       "product_title": "Lenovo ThinkPad X1 Carbon",
-      "product_image": "url_to_image",
+      "product_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_1239.jpeg",
       "category": "Laptop",
       "price": 1599,
       "description": "Lightweight business laptop with excellent build quality.",
@@ -259,7 +259,7 @@
     {
       "product_id": 16,
       "product_title": "Asus ROG Zephyrus G14",
-      "product_image": "url_to_image",
+      "product_image": "https://assetsio.gnwcdn.com/asus-rog-zephyrus-g14-2022-(1).jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
       "category": "Laptop",
       "price": 1799,
       "description": "Powerful gaming laptop with excellent performance.",
@@ -276,7 +276,7 @@
     {
       "product_id": 17,
       "product_title": "Acer Predator Helios 300",
-      "product_image": "url_to_image",
+      "product_image": "https://assetsio.gnwcdn.com/acer-predator-helios-300-review.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
       "category": "Laptop",
       "price": 1499,
       "description": "High-performance gaming laptop with advanced cooling.",
@@ -293,7 +293,7 @@
     {
       "product_id": 18,
       "product_title": "Razer Blade 15",
-      "product_image": "url_to_image",
+      "product_image": "https://cdn.ecoustics.com/db0/wblob/17BA35E873D594/23AB/40C98/nwuGWs5ZV-BAViFCBcT3ogY2cTpQb9hFpmqi5zt589U/razer-blade-15-gaming-laptop-2020-back-angle.jpg",
       "category": "Laptop",
       "price": 2199,
       "description": "Premium gaming laptop with advanced graphics.",
@@ -310,7 +310,7 @@
     {
       "product_id": 19,
       "product_title": "Apple MacBook Air M1",
-      "product_image": "url_to_image",
+      "product_image": "https://www.macworld.com/wp-content/uploads/2023/01/new_macbook_air_silicon_2020_release_date.jpg?quality=50&strip=all",
       "category": "Laptop",
       "price": 999,
       "description": "Lightweight laptop with impressive performance and battery life.",
@@ -327,7 +327,7 @@
     {
       "product_id": 20,
       "product_title": "Lenovo Yoga 9i",
-      "product_image": "url_to_image",
+      "product_image": "https://worldkings.org/Userfiles/Upload/images/Lenovo-Yoga-Book-9i-2.png",
       "category": "Laptop",
       "price": 1499,
       "description": "Versatile 2-in-1 laptop with a beautiful display.",
