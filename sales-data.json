@@ -1,0 +1,190 @@
+{
+  "sales_data": {
+    "phones": [
+      {
+        "product_id": 1,
+        "product_title": "iPhone 14 Pro",
+        "sales_volume": 12000,
+        "revenue_generated": 11988000
+      },
+      {
+        "product_id": 2,
+        "product_title": "Samsung Galaxy S23",
+        "sales_volume": 9500,
+        "revenue_generated": 8540500
+      },
+      {
+        "product_id": 3,
+        "product_title": "Google Pixel 7",
+        "sales_volume": 8000,
+        "revenue_generated": 6392000
+      },
+      {
+        "product_id": 4,
+        "product_title": "OnePlus 10 Pro",
+        "sales_volume": 7000,
+        "revenue_generated": 6783000
+      },
+      {
+        "product_id": 5,
+        "product_title": "Sony Xperia 5 III",
+        "sales_volume": 6500,
+        "revenue_generated": 5518500
+      },
+      {
+        "product_id": 6,
+        "product_title": "Xiaomi Mi 12",
+        "sales_volume": 7500,
+        "revenue_generated": 5992500
+      },
+      {
+        "product_id": 7,
+        "product_title": "ASUS ROG Phone 6",
+        "sales_volume": 6000,
+        "revenue_generated": 5994000
+      },
+      {
+        "product_id": 8,
+        "product_title": "Huawei P50 Pro",
+        "sales_volume": 5800,
+        "revenue_generated": 5204200
+      },
+      {
+        "product_id": 9,
+        "product_title": "Oppo Find X5 Pro",
+        "sales_volume": 5600,
+        "revenue_generated": 4754400
+      },
+      {
+        "product_id": 10,
+        "product_title": "Moto G100",
+        "sales_volume": 7000,
+        "revenue_generated": 4193000
+      }
+    ],
+    "laptops": [
+      {
+        "product_id": 11,
+        "product_title": "MacBook Pro 14-inch",
+        "sales_volume": 1500,
+        "revenue_generated": 2998500
+      },
+      {
+        "product_id": 12,
+        "product_title": "Dell XPS 13",
+        "sales_volume": 2000,
+        "revenue_generated": 2598000
+      },
+      {
+        "product_id": 13,
+        "product_title": "HP Spectre x360",
+        "sales_volume": 1700,
+        "revenue_generated": 2548300
+      },
+      {
+        "product_id": 14,
+        "product_title": "Microsoft Surface Laptop 4",
+        "sales_volume": 1800,
+        "revenue_generated": 2518200
+      },
+      {
+        "product_id": 15,
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "sales_volume": 1600,
+        "revenue_generated": 2558400
+      },
+      {
+        "product_id": 16,
+        "product_title": "Asus ROG Zephyrus G14",
+        "sales_volume": 1400,
+        "revenue_generated": 2518600
+      },
+      {
+        "product_id": 17,
+        "product_title": "Acer Predator Helios 300",
+        "sales_volume": 1300,
+        "revenue_generated": 1948700
+      },
+      {
+        "product_id": 18,
+        "product_title": "Razer Blade 15",
+        "sales_volume": 1200,
+        "revenue_generated": 2638800
+      },
+      {
+        "product_id": 19,
+        "product_title": "Apple MacBook Air M1",
+        "sales_volume": 2200,
+        "revenue_generated": 2197800
+      },
+      {
+        "product_id": 20,
+        "product_title": "Lenovo Yoga 9i",
+        "sales_volume": 1700,
+        "revenue_generated": 2548300
+      }
+    ],
+    "smartwatches": [
+      {
+        "product_id": 21,
+        "product_title": "Apple Watch Series 7",
+        "sales_volume": 10000,
+        "revenue_generated": 3990000
+      },
+      {
+        "product_id": 22,
+        "product_title": "Samsung Galaxy Watch 4",
+        "sales_volume": 8500,
+        "revenue_generated": 2116500
+      },
+      {
+        "product_id": 23,
+        "product_title": "Garmin Fenix 6",
+        "sales_volume": 6000,
+        "revenue_generated": 3294000
+      },
+      {
+        "product_id": 24,
+        "product_title": "Fitbit Sense",
+        "sales_volume": 9000,
+        "revenue_generated": 2691000
+      },
+      {
+        "product_id": 25,
+        "product_title": "TicWatch Pro 3",
+        "sales_volume": 5000,
+        "revenue_generated": 1495000
+      },
+      {
+        "product_id": 26,
+        "product_title": "Huawei Watch GT 2 Pro",
+        "sales_volume": 5400,
+        "revenue_generated": 1614600
+      },
+      {
+        "product_id": 27,
+        "product_title": "Amazfit GTR 3",
+        "sales_volume": 7200,
+        "revenue_generated": 1288800
+      },
+      {
+        "product_id": 28,
+        "product_title": "Fossil Gen 6",
+        "sales_volume": 5300,
+        "revenue_generated": 1584700
+      },
+      {
+        "product_id": 29,
+        "product_title": "Garmin Venu 2",
+        "sales_volume": 6200,
+        "revenue_generated": 2478000
+      },
+      {
+        "product_id": 30,
+        "product_title": "Suunto 7",
+        "sales_volume": 5700,
+        "revenue_generated": 2274300
+      }
+    ]
+  }
+}
