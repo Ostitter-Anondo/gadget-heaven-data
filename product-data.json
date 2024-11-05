@@ -1,0 +1,515 @@
+{
+  "categories": ["Smartphones", "Tablets", "Laptops", "Smartwatches", "Smart Home"],
+  "products": [
+    {
+      "product_id": 1,
+      "product_title": "iPhone 14 Pro",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 999,
+      "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+      "specifications": [
+        "128GB storage",
+        "6.1-inch display",
+        "5G connectivity",
+        "Triple-camera system",
+        "Face ID"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S23",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 899,
+      "description": "Flagship smartphone with Exynos 2200 and superior display.",
+      "specifications": [
+        "256GB storage",
+        "6.2-inch display",
+        "5G connectivity",
+        "Quad-camera system",
+        "Fingerprint scanner"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 3,
+      "product_title": "Google Pixel 7",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 799,
+      "description": "Google's latest smartphone with pure Android experience.",
+      "specifications": [
+        "128GB storage",
+        "6.3-inch display",
+        "5G connectivity",
+        "Dual-camera system",
+        "Google Assistant"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 4,
+      "product_title": "OnePlus 10 Pro",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 969,
+      "description": "High-performance phone with Snapdragon 8 Gen 1.",
+      "specifications": [
+        "256GB storage",
+        "6.7-inch display",
+        "5G connectivity",
+        "Triple-camera system",
+        "Warp Charge 65"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 5,
+      "product_title": "Sony Xperia 5 III",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 849,
+      "description": "Compact flagship with impressive camera technology.",
+      "specifications": [
+        "128GB storage",
+        "6.1-inch display",
+        "5G connectivity",
+        "Triple-camera system",
+        "CinemaWide display"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 6,
+      "product_title": "Xiaomi Mi 12",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 799,
+      "description": "Affordable flagship with Snapdragon 888 and great cameras.",
+      "specifications": [
+        "128GB storage",
+        "6.55-inch display",
+        "5G connectivity",
+        "Triple-camera system",
+        "Fast charging"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 7,
+      "product_title": "ASUS ROG Phone 6",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 999,
+      "description": "Gaming phone with high refresh rate display and great performance.",
+      "specifications": [
+        "256GB storage",
+        "6.78-inch display",
+        "5G connectivity",
+        "Dual-camera system",
+        "6000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 8,
+      "product_title": "Huawei P50 Pro",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 899,
+      "description": "Premium phone with powerful camera capabilities.",
+      "specifications": [
+        "256GB storage",
+        "6.6-inch display",
+        "5G connectivity",
+        "Quad-camera system",
+        "HarmonyOS"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 9,
+      "product_title": "Oppo Find X5 Pro",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 849,
+      "description": "Flagship phone with unique design and powerful specs.",
+      "specifications": [
+        "256GB storage",
+        "6.7-inch display",
+        "5G connectivity",
+        "Quad-camera system",
+        "65W SuperVOOC charging"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 10,
+      "product_title": "Moto G100",
+      "product_image": "url_to_image",
+      "category": "Phone",
+      "price": 599,
+      "description": "Mid-range phone with high performance and large battery.",
+      "specifications": [
+        "128GB storage",
+        "6.7-inch display",
+        "5G connectivity",
+        "Triple-camera system",
+        "5000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 11,
+      "product_title": "MacBook Pro 14-inch",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 1999,
+      "description": "Powerful laptop with M1 Pro chip and excellent display.",
+      "specifications": [
+        "14-inch Liquid Retina XDR display",
+        "M1 Pro chip",
+        "16GB RAM",
+        "512GB SSD",
+        "macOS"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 12,
+      "product_title": "Dell XPS 13",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 1299,
+      "description": "Premium ultrabook with stunning display and performance.",
+      "specifications": [
+        "13.4-inch FHD+ display",
+        "Intel i7 11th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 13,
+      "product_title": "HP Spectre x360",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 1499,
+      "description": "Convertible laptop with sleek design and great performance.",
+      "specifications": [
+        "13.3-inch OLED display",
+        "Intel i7 11th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 14,
+      "product_title": "Microsoft Surface Laptop 4",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 1399,
+      "description": "Elegant laptop with high-resolution touchscreen.",
+      "specifications": [
+        "13.5-inch PixelSense display",
+        "Intel i5 11th Gen",
+        "8GB RAM",
+        "256GB SSD",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 15,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 1599,
+      "description": "Lightweight business laptop with excellent build quality.",
+      "specifications": [
+        "14-inch FHD display",
+        "Intel i7 11th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 16,
+      "product_title": "Asus ROG Zephyrus G14",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 1799,
+      "description": "Powerful gaming laptop with excellent performance.",
+      "specifications": [
+        "14-inch QHD display",
+        "AMD Ryzen 9 5900HS",
+        "16GB RAM",
+        "1TB SSD",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 17,
+      "product_title": "Acer Predator Helios 300",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 1499,
+      "description": "High-performance gaming laptop with advanced cooling.",
+      "specifications": [
+        "15.6-inch FHD display",
+        "Intel i7 10th Gen",
+        "16GB RAM",
+        "1TB SSD",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 18,
+      "product_title": "Razer Blade 15",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 2199,
+      "description": "Premium gaming laptop with advanced graphics.",
+      "specifications": [
+        "15.6-inch QHD display",
+        "Intel i7 11th Gen",
+        "16GB RAM",
+        "1TB SSD",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 19,
+      "product_title": "Apple MacBook Air M1",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 999,
+      "description": "Lightweight laptop with impressive performance and battery life.",
+      "specifications": [
+        "13.3-inch Retina display",
+        "Apple M1 chip",
+        "8GB RAM",
+        "256GB SSD",
+        "macOS"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 20,
+      "product_title": "Lenovo Yoga 9i",
+      "product_image": "url_to_image",
+      "category": "Laptop",
+      "price": 1499,
+      "description": "Versatile 2-in-1 laptop with a beautiful display.",
+      "specifications": [
+        "14-inch UHD display",
+        "Intel i7 11th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 21,
+      "product_title": "Apple Watch Series 7",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 399,
+      "description": "The latest Apple Watch with a larger display and faster charging.",
+      "specifications": [
+        "GPS + Cellular",
+        "Always-On Retina display",
+        "Blood Oxygen app",
+        "ECG app",
+        "Swimproof"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 22,
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 249,
+      "description": "Smartwatch with health monitoring and advanced fitness tracking.",
+      "specifications": [
+        "BioActive Sensor",
+        "Advanced Sleep Tracking",
+        "ECG monitoring",
+        "Water resistant",
+        "Wear OS"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 23,
+      "product_title": "Garmin Fenix 6",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 549,
+      "description": "Premium multisport GPS smartwatch with advanced training features.",
+      "specifications": [
+        "GPS",
+        "Pulse Ox Sensor",
+        "Heart Rate Monitor",
+        "Long Battery Life",
+        "Water resistant"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 24,
+      "product_title": "Fitbit Sense",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 299,
+      "description": "Advanced health smartwatch with tools for stress management, heart health, and more.",
+      "specifications": [
+        "ECG app",
+        "Stress management",
+        "Skin temperature sensor",
+        "Voice assistant",
+        "Sleep tracking"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 25,
+      "product_title": "TicWatch Pro 3",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 299,
+      "description": "Smartwatch with dual-layer display and extended battery life.",
+      "specifications": [
+        "Dual-layer display",
+        "GPS",
+        "Heart rate monitoring",
+        "Sleep tracking",
+        "Wear OS"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 26,
+      "product_title": "Huawei Watch GT 2 Pro",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 299,
+      "description": "Smartwatch with premium design and advanced features.",
+      "specifications": [
+        "Sapphire glass",
+        "Titanium frame",
+        "GPS",
+        "Heart rate monitoring",
+        "Sleep tracking"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 27,
+      "product_title": "Amazfit GTR 3",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 179,
+      "description": "Smartwatch with long battery life and comprehensive health tracking.",
+      "specifications": [
+        "1.39-inch AMOLED display",
+        "GPS",
+        "Heart rate monitoring",
+        "SpO2 monitoring",
+        "Sleep tracking"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 28,
+      "product_title": "Fossil Gen 6",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 299,
+      "description": "Stylish smartwatch with advanced health tracking and Wear OS.",
+      "specifications": [
+        "1.28-inch AMOLED display",
+        "GPS",
+        "Heart rate monitoring",
+        "SpO2 monitoring",
+        "Wear OS"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 29,
+      "product_title": "Garmin Venu 2",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 399,
+      "description": "GPS smartwatch with stunning AMOLED display and advanced health monitoring.",
+      "specifications": [
+        "GPS",
+        "Pulse Ox Sensor",
+        "Heart rate monitoring",
+        "Sleep tracking",
+        "Music storage"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 30,
+      "product_title": "Suunto 7",
+      "product_image": "url_to_image",
+      "category": "Smartwatch",
+      "price": 399,
+      "description": "Smartwatch combining sports expertise with smartwatch features.",
+      "specifications": [
+        "GPS",
+        "Offline maps",
+        "Heart rate monitoring",
+        "Wear OS",
+        "Water resistant"
+      ],
+      "availability": true,
+      "rating": 4.6
+    }
+  ]
+}
