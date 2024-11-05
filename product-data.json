@@ -1,5 +1,5 @@
 {
-  "categories": ["Smartphones", "Tablets", "Laptops", "Smartwatches", "Smart Home"],
+  "categories": [["Smartphones", "Phone"], ["Tablets", "Tablet"], ["Laptops", "Laptop"], ["Smartwatches", "Smartwatch"], ["Smart Home", "SmartHome"]],
   "products": [
     {
       "product_id": 1,
