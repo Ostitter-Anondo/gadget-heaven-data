@@ -1,0 +1,73 @@
+{ "user_reviews": [ 
+  { 
+    "review_id": 1, 
+    "user_name": "JohnDoe123", 
+    "device_purchased": "iPhone 14 Pro", 
+    "rating": 4.8, 
+    "review_text": "The iPhone 14 Pro is an absolute powerhouse! The A16 Bionic chip delivers lightning-fast performance, and the camera quality is phenomenal. Battery life is impressive, and the new features in iOS really enhance the user experience. Highly recommended!" 
+  }, 
+  {
+    "review_id": 2, 
+    "user_name": "TechGuru", 
+    "device_purchased": "Samsung Galaxy S23", 
+    "rating": 4.7, 
+    "review_text": "Loving my new Samsung Galaxy S23! The display is crystal clear, and the Exynos 2200 processor handles everything with ease. The camera setup is versatile and captures stunning photos. Only downside is the battery could be a bit better, but overall, it's a fantastic phone." 
+  }, 
+  { 
+    "review_id": 3, 
+    "user_name": "GadgetLover", 
+    "device_purchased": "Google Pixel 7", 
+    "rating": 4.6, 
+    "review_text": "The Google Pixel 7 offers a pure Android experience, and it's awesome. The interface is smooth and intuitive, and the camera's computational photography is top-notch. Battery life is solid, and it’s a great all-around device for everyday use." 
+  }, 
+  { 
+    "review_id": 4, 
+    "user_name": "SmartBuyer", 
+    "device_purchased": "MacBook Pro 14-inch",
+    "rating": 4.9, 
+    "review_text": "This MacBook Pro is incredible! The M1 Pro chip makes everything lightning fast, from video editing to multitasking. The display is bright and beautiful, and the build quality is top-tier. It’s definitely worth the investment if you need a high-performance laptop." 
+  }, 
+  { 
+    "review_id": 5, 
+    "user_name": "HappyCamper", 
+    "device_purchased": 
+    "Apple Watch Series 7", 
+    "rating": 4.8, 
+    "review_text": "The Apple Watch Series 7 is a game-changer. The larger display is fantastic for reading notifications and tracking workouts, and the new health features are really useful. Battery life is decent, and the fast charging is a big plus." 
+  }, 
+  { 
+    "review_id": 6, 
+    "user_name": "JaneSmith", 
+    "device_purchased": "Dell XPS 13", 
+    "rating": 4.7, 
+    "review_text": "I’m loving my Dell XPS 13! It’s super sleek and lightweight, perfect for traveling. The display is stunning, and performance is smooth with no lag. The battery life is great, and it’s a perfect balance of power and portability."
+  }, 
+  { 
+    "review_id": 7, 
+    "user_name": "TechSavvy", 
+    "device_purchased": "OnePlus 10 Pro", 
+    "rating": 4.6, 
+    "review_text": "The OnePlus 10 Pro is a solid choice. It’s fast, the display is vibrant, and OxygenOS is as smooth as ever. The camera quality has seen significant improvements, and the fast charging is incredibly convenient. It’s a great phone for the price." 
+  }, 
+  { 
+    "review_id": 8, 
+    "user_name": "GizmoGeek", 
+    "device_purchased": "Fitbit Sense",
+    "rating": 4.5, 
+    "review_text": "Fitbit Sense has been fantastic for tracking my fitness goals. The ECG app and stress management tools are great additions. It’s comfortable to wear all day, and the battery lasts quite a while. Perfect for anyone looking to keep their health in check." 
+  }, 
+  { 
+    "review_id": 9, 
+    "user_name": "ElectroFan",
+    "device_purchased": "Razer Blade 15",
+    "rating": 4.9, 
+    "review_text": "The Razer Blade 15 is a beast of a gaming laptop. The performance is unmatched, and the display is gorgeous. It’s perfect for gaming and productivity tasks alike. The build quality is premium, and it’s worth every penny for serious gamers." 
+  }, 
+  { 
+    "review_id": 10, 
+    "user_name": "SmartWatchFan", 
+    "device_purchased": "Garmin Venu 2", 
+    "rating": 4.7,
+    "review_text": "Garmin Venu 2 is a fantastic smartwatch. The health and fitness tracking features are very accurate, and the AMOLED display looks great. Battery life is impressive, and the watch feels very comfortable on the wrist. Great choice for fitness enthusiasts." 
+  } 
+] }
